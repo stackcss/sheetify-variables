@@ -7,7 +7,14 @@
     "test": "make test"
   },
   "repository": "yoshuawuyts/sheetify-variables",
-  "keywords": [],
+  "keywords": [
+    "sheetify",
+    "transform",
+    "variables",
+    "variable",
+    "rework",
+    "css"
+  ],
   "license": "MIT",
   "dependencies": {
     "rework-vars": "^3.1.1"
