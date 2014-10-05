@@ -6,7 +6,7 @@
   "scripts": {
     "test": "make test"
   },
-  "repository": "undefined/sheetify-variables",
+  "repository": "yoshuawuyts/sheetify-variables",
   "keywords": [],
   "license": "MIT",
   "dependencies": {
