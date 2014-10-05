@@ -19,6 +19,9 @@ npm install sheetify-variables
 ## Usage
 As a sheetify transform:
 ```js
+var variables = require('sheetify-variables');
+var sheetify = require('sheetify');
+
 sheetify('path/to/my/index.css')
   .transform(variables({preserve: true}))
   .bundle();
