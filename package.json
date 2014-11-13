@@ -1,6 +1,6 @@
 {
   "name": "sheetify-variables",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A sheetify transform to add support for W3C-style CSS variables syntax",
   "main": "index.js",
   "scripts": {
